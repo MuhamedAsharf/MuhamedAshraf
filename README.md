@@ -1,5 +1,5 @@
-### Hi there! I'm Mohamed Ashraf 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
+### Hi there! I'm Mohamed Ashraf 📊
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%">
 
 I'm a Data Analyst passionate about turning raw data into valuable insights, and I am currently expanding my skills to move towards **Data Engineering**.
 
@@ -44,28 +44,26 @@ I'm a Data Analyst passionate about turning raw data into valuable insights, and
 - **Database Querying:** Advanced SQL (MySQL, PostgreSQL, T-SQL)
 - **Business Intelligence:** Power BI, Tableau
 - **Data Analysis & Spreadsheet:** Microsoft Excel (Advanced)
+- **Data Wrangling:** (Data Cleaning, Transformation, and Preparation)
+
+---
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;My GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhamedAsharf&show_icons=true&locale=en&theme=tokyonight" alt="MuhamedAsharf's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhamedAsharf&layout=compact&locale=en&theme=tokyonight" alt="MuhamedAsharf's Top Languages" />
+  </p>
+</details>
+
+---
+
 ## 📁 &nbsp;My Data Analysis Portfolio
+
 
 Here are some of the projects I've worked on.
 
 ### 1. Retail Sales Analysis (Coffee Shop)
 * **Description:** An in-depth analysis of retail sales data for a coffee shop in India to identify sales trends and customer behavior.
-* **Tools:** `SQL`, `Power BI`
-* **Link:** [View Project on GitHub](https://github.com/MuhamedAsharf/-Retail-sales-project)
-
-### 2. Sallah Call Center Analysis
-* **Description:** Analyzed call center data for Sallah, a Saudi Arabian company, to evaluate performance metrics and improve customer service.
-* **Tools:** `SQL`, `Power BI`
-* **Link:** [View Project on GitHub](https://github.com/MuhamedAsharf/Sallah-Call-Center-Agency-in-Saudi-Arabia)
-
-### 3. Homzmart Top Products Scraping
-* **Description:** A project to scrape data for the top-selling products from the Homzmart website.
-* **Tools:** `Python`, `Power BI`
-* **Link:** [View Project on GitHub](https://github.com/MuhamedAsharf/Homzmart-Top-Products-Scraped-)
-
----
-
-
-
-- **Data Wrangling:** (Data Cleaning, Transformation, and Preparation)
-
+* **Tools:**
