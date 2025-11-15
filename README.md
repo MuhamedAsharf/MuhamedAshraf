@@ -3,6 +3,17 @@
 
 I'm a Data Analyst passionate about turning raw data into valuable insights, and I am currently expanding my skills to move towards **Data Engineering**.
 
+## 🔗 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ashraf-414011276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ashraf LinkedIn" height="30" width="40" /></a>
+<a href="https://wa.me/201016251696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="mailto:mohamedashraf04q@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft-outlook.svg" alt="Email Me" height="30" width="40" /></a>
+</p>
+
+---
+
+
 - 🔭 &nbsp;I’m currently working on **new data analysis & ETL projects**.
 - 🌱 &nbsp;I’m currently learning **Data Engineering concepts and advanced Python/SQL**.
 - 💬 &nbsp;Ask me about: **SQL, Python (Pandas), Power BI, & Excel**
@@ -29,15 +40,6 @@ Here are some of the projects I've worked on.
 
 ---
 
-## 🔗 &nbsp;Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-ashraf-414011276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ashraf LinkedIn" height="30" width="40" /></a>
-<a href="https://wa.me/201016251696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="mailto:mohamedashraf04q@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft-outlook.svg" alt="Email Me" height="30" width="40" /></a>
-</p>
-
----
 
 ## ✨&nbsp; About Me
 
@@ -65,8 +67,3 @@ Here are some of the projects I've worked on.
 - **Data Analysis & Spreadsheet:** Microsoft Excel (Advanced)
 - **Data Wrangling:** (Data Cleaning, Transformation, and Preparation)
 
----
-
-
-- 🏆 &nbsp;**[اكتب اسم الشهادة الخاصة بـ Power BI]**
-  - *DataCamp* | *[يمكنك وضع رابط الشهادة هنا]*
